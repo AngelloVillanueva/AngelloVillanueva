@@ -4,10 +4,10 @@ Tengo 26 años, soy Chileno, hace un tiempo atrás egresé y supe que camino que
 
 ### ¡Más Sobre Mi!
 - Ingeniero Civil industrial :stuck_out_tongue_winking_eye:
-- Estudiante de Platzi -  Escuela de **Data Science** :green_heart: :chart_with_upwards_trend:
+- Estudiante en Platzi -  Escuela de **Data Science** :green_heart: :chart_with_upwards_trend:
 - Practicante en **Data Analyst** en Scotibank
 - Amante del café y de la comida :coffee:
-- Me gutan los gatitos :cat:
+- Me gustan los gatitos :cat:
 
 ### Contacto :iphone:	
 
