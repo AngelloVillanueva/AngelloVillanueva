@@ -6,6 +6,7 @@
 - Amante del café y de la comida :coffee:
 
 ### Contacto
-[Twitter](https://twitter.com/AngelloVMN)
-[LinkedIn](https://www.linkedin.com/in/angello-villanueva-menichetti-5a311816a/)
-[Instagram](https://www.instagram.com/x_disheartenment/)
+
+- [Twitter](https://twitter.com/AngelloVMN)
+- [LinkedIn](https://www.linkedin.com/in/angello-villanueva-menichetti-5a311816a/)
+- [Instagram](https://www.instagram.com/x_disheartenment/)
