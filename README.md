@@ -4,6 +4,7 @@ Tengo 26 años, soy Chileno, hace un tiempo atrás egresé y supe que camino que
 
 ### ¡Más Sobre Mi!
 - Ingeniero Civil industrial :stuck_out_tongue_winking_eye:
+- Analistas de Operaciones (SQL/Power BI/ Excel)
 - Estudiante en Platzi -  Escuela de **Data Science** :green_heart: :chart_with_upwards_trend:
 - Practicante en **Data Analyst** en Scotibank
 - Amante del café y de la comida :coffee:
