@@ -3,6 +3,7 @@
 Chileno de 28 años, ingeniero civil industrial y hace un tiempo aprendiendo de forma autodidacta para ser un **Data Scientist**, con ello en mente creé y he diseñado este portafolio en Github para mostrarle a los reclutadores y al mundo las cosas increibles que se pueden lograr con los datos, cuanto valor se puede entregrar y las problematicas que se puede resolver. Encontraran proyectos de Web Scraper, de Análisis estadístico con Python *(Scipy/Numpy/Pandas/Sklearn)*, Visualización de datos *(Matplotlib/Seaborn)* y próximamente Machine Learning. Adicionalmente encontrán mis respuestas a los retos de Platzi en torno a la programación.
 
 ### Mis proyectos:
+** ESTOS PROYECTOS SON DEL 2019, PRONTAMENTE SERÁN ACTUALIZADOS MEJORES ANÁLISIS Y GRÁFICOS **
 - [Titanic Kaggle](https://github.com/AngelloVillanueva/titanic_kaggle)
 - [Scrapper de Diario](https://github.com/AngelloVillanueva/larepublica_scraper)
 - [Data Analysis Global Warming](https://github.com/AngelloVillanueva/global_warming)
