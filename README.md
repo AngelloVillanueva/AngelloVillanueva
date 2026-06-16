@@ -1,13 +1,10 @@
-### Hey, Soy Angello Villanueva!
+### Hey, I'm Angello Villanueva!
 
-Chileno, ingeniero civil industrial, he trabajado como Data Analyst y Data Scientist. He desarrollado este portafolio como una manera didactica de practicar y para aprender cosas nuevas, asi como retarme con nuevos proyecto. Encontraran proyectos de Web Scraper, de Análisis estadístico con Python *(Scipy/Numpy/Pandas/Sklearn)*, Visualización de datos *(Matplotlib/Seaborn)* y próximamente Machine Learning. Adicionalmente encontrán mis respuestas a los retos de Platzi en torno a la programación.
+### My proyects:
+- soon
 
-### Mis proyectos:
-- Proximamente
-
-
-### Contacto :iphone:	
+### Contact :iphone:	
 
 - [LinkedIn](https://www.linkedin.com/in/angellovm/)
-- [Certifiados Platzi](https://platzi.com/@AngelloVillanuevaM/)
+- [Platzi](https://platzi.com/@AngelloVillanuevaM/)
 - Email: angello.villanuevamn@gmail.com
