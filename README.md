@@ -17,7 +17,7 @@ Unlike traditional software developers, I speak fluent business. I have spent ye
 
 ## 🧪 Active Portfolio & Enterprise Sandboxes
 
-### 📂 [ai-fde-sandbox](./ai-fde-sandbox) — Asynchronous Financial P&L API
+### 📂 [ai-fde-sandbox](./AngelloVillanueva/ai-fde-sandbox) — Asynchronous Financial P&L API
 * **The Mission:** A production-grade FastAPI infrastructure built to process, clean, and expose simulated financial metrics (OPINC, Revenue, Shrinkage) across a 400-store retail network.
 * **Why it matters:** This isn't a toy project; it simulates the backend needed for autonomous financial auditors, directly inspired by my real-world experience building enterprise financial intelligence.
 
