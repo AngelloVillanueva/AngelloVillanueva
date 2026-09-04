@@ -27,7 +27,7 @@ Production-shaped FastAPI P&L API on **Cloud Run**, **6 tools**, Gemini multi-tu
 
 Live API: [fde-pnl-api](https://fde-pnl-api-198971893116.europe-west1.run.app/docs)
 
-### [Eloquence](https://github.com/AngelloVillanueva/ElevateAIApp) — Elevate AI (local English voice tutor)
+### [Eloquence](https://github.com/AngelloVillanueva/ElevateAIApp) — Eloquence (local English voice tutor)
 **100% local** voice tutor (B1/B2 → C1): Faster-Whisper → Ollama → Kokoro on a single **RTX 3060**. FastAPI WebSocket streaming, React UI, dual-channel SPEAK/FEEDBACK coaching. No cloud APIs on the critical path — low-latency speech agents on commodity GPU.
 
 ---
